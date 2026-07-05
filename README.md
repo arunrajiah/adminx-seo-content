@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/logo.svg" alt="AdminX SEO Content logo" width="96" height="96">
+</p>
+
 # AdminX SEO Content 📝
 
 ![WordPress Plugin](https://img.shields.io/badge/WordPress-Plugin-blue.svg)
